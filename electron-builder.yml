@@ -1,5 +1,5 @@
-productName: Voxtulate Client
-appId: pro.tricko.voxtulate
+productName: Cache Test Client
+appId: pro.tricko.test
 npmRebuild: false
 directories:
   output: "dist"

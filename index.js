@@ -1,2 +1,2 @@
 const { app, BrowserWindow } = require("electron")
-app.on("ready", () => new BrowserWindow({ title: "Cache Test" }).loadURL("https://tricko.pro"))
+app.on("ready", () => new BrowserWindow().loadURL("https://tricko.pro"))

@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertpakalns/VoxtulateClient.git"
+    "url": "git+https://github.com/robertpakalns/cache-test.git"
   },
   "license": "ISC",
   "dependencies": {
